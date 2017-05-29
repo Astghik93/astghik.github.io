@@ -15,11 +15,11 @@ margin-right: 250px;
 border:solid brown 3px;  
 }
 #my_fl{
-	color: #89060d;
+	color: #040138;
 }
 
 #header{
-	color: #cc145f;
+	color: #040138;
 }
 
 li#adress{
@@ -36,14 +36,14 @@ li#email{
 	
 }
 #my_adress{
-	color:#7a2246;
+	color:#040138;
     font-family: 'Yantramanav', sans-serif;
     font-size: 18px;   
 
 }
 
 #my_email{
-    color:#7a2246;
+    color:#040138;
     font-family: 'Yantramanav', sans-serif;
     font-size: 18px;   
 
@@ -69,8 +69,9 @@ color: white;
 
 }
 h4 {
-	background: #f2dea4;
+	background: #03000f;
 	font-size: 20px;
+	color: white;
 	width: 60%;
 	align-content:center; 
 	margin: 10px 312px;
@@ -88,17 +89,17 @@ hr.style2{
 
 }
 h5{font-size: 20px;
-color: #c40f59;}
+color: #875a7e;}
 
 ul#awards{
-	color: #89060d;
+	color: #ff9966;
 font-size: 15px;
 }
 
 h6{font-size: 20px;
-color: #c40f59;}
+color: #ff9966;}
 ul#Internship{
-	color: #89060d;
+	color: #ff9966;
 font-size: 15px;
 }
 
