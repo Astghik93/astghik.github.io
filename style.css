@@ -1,0 +1,104 @@
+body{
+background-image: url(https://images4.alphacoders.com/103/103888.jpg);
+	background-repeat: no-repeat;
+background-size: 150%; }
+
+
+
+
+
+
+img {
+	float: left;
+margin-bottom:  10px;
+margin-right: 250px;
+border:solid brown 3px;  
+}
+#my_fl{
+	color: #89060d;
+}
+
+#header{
+	color: #cc145f;
+}
+
+li#adress{
+	margin-right: 16px;
+	list-style: inside;
+	list-style-type: square;
+	
+}
+li#email{
+	margin-right:  18px;
+	list-style: inside;
+	list-style-type: square;
+
+	
+}
+#my_adress{
+	color:#7a2246;
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 18px;   
+
+}
+
+#my_email{
+    color:#7a2246;
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 18px;   
+
+
+}
+h3{
+	font-size: 25px;
+	color: #c40f59;
+text-shadow: 6px 6px 10px #edffb2;
+	
+	
+	align-content: center;
+}
+
+#aboutme{
+	font-family: 'Cookie', cursive;
+	font-size: 18px;
+	}
+
+#aboutme:hover{
+background: #4f0a26;
+color: white;
+
+}
+h4 {
+	background: #f2dea4;
+	font-size: 20px;
+	width: 60%;
+	align-content:center; 
+	margin: 10px 312px;
+	
+}
+table{
+	background: #f2dea4;
+	font-size: 20px;
+	align-content: center;
+}
+
+hr.style2{
+	border: 1px dashed;
+	color: #f2dea4;
+
+}
+h5{font-size: 20px;
+color: #c40f59;}
+
+ul#awards{
+	color: #89060d;
+font-size: 15px;
+}
+
+h6{font-size: 20px;
+color: #c40f59;}
+ul#Internship{
+	color: #89060d;
+font-size: 15px;
+}
+
